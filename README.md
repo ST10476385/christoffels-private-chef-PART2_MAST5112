@@ -7,7 +7,7 @@
 **STUDENT NUMBER:** ST10476385  
 **DATES SUBMITTED:**  2025/10/26
 **VIDEO LINK:** https://youtu.be/nbghY1XRfeE
-
+**GITHUB LINK:** https://github.com/ST10476385/christoffels-private-chef-PART2_MAST5112.git
 ---
 
 ## Overview
