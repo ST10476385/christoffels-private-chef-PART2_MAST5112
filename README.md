@@ -97,9 +97,26 @@ yarn install
 Start the Expo development server:
 
 expo start
+## Features
+
+- **Menu Section:** View starters, mains, desserts, wines, and cocktails with detailed descriptions and ingredients.  
+- **Dish Details:** Chef’s story, origin, ingredients, and pairing suggestions.  
+- **User Authentication:** Login and signup functionality.  
+- **Profile Management:** Edit user profile.  
+- **Bookings:** View and manage bookings.  
+- **Splash Screen:** Custom splash screen on app startup.  
+- **Bottom Navigation Tabs:** Quick access to main sections.  
+
+## Technologies Used
+
+- **React Native** – Mobile UI framework.  
+- **Expo** – React Native development and deployment platform.  
+- **TypeScript** – Type safety for better development experience.  
+- **React Navigation** – Handles app navigation.  
+- **Expo Vector Icons** – Icons for UI.  
 
 
-###References
+##References
 
 Expo Documentation. (2025) Expo Documentation. Available at: https://docs.expo.dev/
  (Accessed: 6 October 2025).
