@@ -1,11 +1,12 @@
 # Christoffel's Private Chef App
 
-**MODULE NAME:**  
-**MODULE CODE:**  
+**MODULE NAME:**  Mobile App Scripting
+**MODULE CODE:**  MAST5112
 **ASSESSMENT TYPE:** PART 2 FORMATIVE 2  
 **STUDENT NAME:** Khanyisa Ntsako Shikwambana  
 **STUDENT NUMBER:** ST10476385  
-**DATES SUBMITTED:**  
+**DATES SUBMITTED:**  2025/10/26
+**VIDEO LINK:** https://youtu.be/nbghY1XRfeE
 
 ---
 
